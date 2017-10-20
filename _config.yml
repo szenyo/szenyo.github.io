@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Janos Szendi-Varga
+url: 
+description: My personal page.
+twitter: szenyo
